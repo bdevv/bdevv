@@ -1,11 +1,10 @@
 <img src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
 
-<h1> Hey there! I'm Rajan Gautam.</h1>  
+<h1> Hey there!</h1>  
  
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
-- 🎓 &nbsp; Studied Computer Science and Engineering at Pandit Deendayal Energy University.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Software Developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>  
@@ -62,10 +61,10 @@
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
   ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p align="center">
-<!-- <a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/rgautam320"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rgautam320-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/rgautam320"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-rgautam320-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.twitter.com/rgautam320"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rgautam320-blue?style=flat-square&logo=twitter"></a>
@@ -73,4 +72,4 @@
 <a href="https://www.youtube.com/c/rgautam320/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-rgautam320-blue?style=flat-square&logo=youtube"></a>
 <a href="https://www.gitlab.com/rgautam320/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-rgautam320-blue?style=flat-square&logo=gitlab"></a>
 <a href="mailto:gautamrajan073@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rgautam320-blue?style=flat-square&logo=gmail"></a>
-</p>
+</p> -->
