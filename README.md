@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
 
 <h1> Hey there!</h1>  
  
