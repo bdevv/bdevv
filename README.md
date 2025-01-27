@@ -1,74 +1,19 @@
+![](https://github.com/bdevv/bdevv/blob/main/background.png)
 
-<h1> Hey there!</h1>  
- 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### Overview
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Software Developer.
+`bdevv` is a highly efficient and reliable professional full stack developer with extensive experience in several IT companies in the Philippines. He possesses a broad skill set focused on web and mobile application development, having worked on a range of products and tackled scalability challenges in production engineering. His experience spans across various companies including `Accenture Philippines`, `Exist Software Labs`, `Pointwest Innovations`, `Armada Logics Inc.`, `Coins.ph`, and `Kumu`. bdevv's primary objective is to develop robust programming solutions and successfully launch new applications. He focuses on creating code that is easy to read, maintain, and test, thereby optimizing both the developer's experience and the overall functionality and aesthetics of the applications.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>  
+#### ✨ Technical Stacks ✨
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
-  
-- 🌐 &nbsp;
-  ![React/React Native](https://img.shields.io/badge/-React/ReactNative-333333?style=flat&logo=react)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![DotNET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
-  ![Laravel](https://img.shields.io/badge/-.Laravel-333333?style=flat&logo=laravel)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoft-sql-server)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
-  ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio&logoColor=2C2255)
-  
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  
-- 📜 &nbsp;
-  ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
-  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-  ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
+* 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Quasar](https://quasar.dev/), [Vuesax](https://lusaxweb.github.io/vuesax/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/)
+* 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Nest.js](https://nestjs.com/), [Koa.js](https://koajs.com/), [Feathers.js](https://feathersjs.com/) ), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) ), [GoLang](https://golang.org/)
+* 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/), [Ionic](https://ionicframework.com/), [NativeScript](https://nativescript.org/), [Flutter](https://flutter.dev/), [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+* 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
+* 🥈 Blockchain: [Solidity](https://soliditylang.org/), [Truffle](https://trufflesuite.com/), [Hardhat](https://hardhat.org/), [Chainlink](https://chain.link/), [EVM](https://ethereum.org/en/developers/docs/evm/), [Diamond Standard](https://eips.ethereum.org/EIPS/eip-2535)
+* 🥈 AI Machine Learning: [autogen](https://pypi.org/project/autogen/) [OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+* 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
-<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+What `Silver-IT` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
-<p align="center">
-<a href="https://www.rajangautam.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-rajangautam.com.np-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.instagram.com/rgautam320"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rgautam320-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.facebook.com/rgautam320"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-rgautam320-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.twitter.com/rgautam320"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rgautam320-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/rgautam320/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rgautam320-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.youtube.com/c/rgautam320/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-rgautam320-blue?style=flat-square&logo=youtube"></a>
-<a href="https://www.gitlab.com/rgautam320/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-rgautam320-blue?style=flat-square&logo=gitlab"></a>
-<a href="mailto:gautamrajan073@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rgautam320-blue?style=flat-square&logo=gmail"></a>
-</p> -->
+Feel free to contact `bdevv` via [eMail](mailto:bdv.villan@gmail.com?Subject=Hello%20Bryan!), [Skype](https://join.skype.com/invite/w4zVrveF15sQ) who is always ready to make your professional dreams a reality.
