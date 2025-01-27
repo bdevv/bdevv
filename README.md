@@ -14,6 +14,6 @@
 * 🥈 AI Machine Learning: [autogen](https://pypi.org/project/autogen/) [OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
-What `Silver-IT` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
+What `bdevv` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
-Feel free to contact `bdevv` via [eMail](mailto:bdv.villan@gmail.com?Subject=Hello%20Bryan!), [Skype](https://join.skype.com/invite/w4zVrveF15sQ) who is always ready to make your professional dreams a reality.
+Feel free to contact `bdevv` via [eMail](mailto:bdv.villan@gmail.com?Subject=Hello%20Bryan!), [Skype](https://join.skype.com/invite/ujnJc5FiMtb7) who is always ready to make your professional dreams a reality.
